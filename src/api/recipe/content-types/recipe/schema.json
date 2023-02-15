@@ -35,6 +35,9 @@
     },
     "calories": {
       "type": "integer"
+    },
+    "status": {
+      "type": "string"
     }
   }
 }
